@@ -33,3 +33,7 @@ dbt docs serve
 
 ### upload datasets
 dbt seed
+
+dbt run -m tfm_book
+
+
