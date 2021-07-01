@@ -52,3 +52,5 @@ dbt test
 dbt seed --target=prod
 dbt run  --target=prod
 ```
+
+dbt run
