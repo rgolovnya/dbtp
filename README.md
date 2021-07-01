@@ -36,4 +36,4 @@ dbt seed
 
 dbt run -m tfm_book
 
-
+dbt run -m tfm_book+
