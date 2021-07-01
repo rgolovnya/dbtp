@@ -30,3 +30,6 @@ dbt run --model +tfm_stock_history_major_currency
 dbt docs generate
 dbt docs serve
 ```
+
+### upload datasets
+dbt seed
