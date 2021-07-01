@@ -17,3 +17,5 @@ dbt_project.yml
 ### Validate the configuration
 
 dbt debug
+
+dbt run --model l10_staging 
