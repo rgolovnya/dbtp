@@ -46,3 +46,9 @@ dbt docs serve
 
 dbt test
 
+
+### Deployment
+```
+dbt seed --target=prod
+dbt run  --target=prod
+```
