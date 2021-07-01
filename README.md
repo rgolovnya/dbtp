@@ -19,3 +19,6 @@ dbt_project.yml
 dbt debug
 
 dbt run --model l10_staging 
+
+
+dbt run --model +tfm_stock_history
