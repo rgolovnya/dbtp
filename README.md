@@ -44,6 +44,5 @@ dbt run
 dbt docs serve
 ```
 
-
-
+dbt test
 
